@@ -1,0 +1,4 @@
+com\tavisca\datasetup\DataSetupMain.class
+com\tavisca\datasetup\RealmSetup.class
+com\tavisca\datasetup\UserSetup.class
+com\tavisca\datasetup\ClientMapperSetup.class
